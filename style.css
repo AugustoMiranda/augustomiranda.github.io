@@ -1,0 +1,422 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff;
+}
+
+.menu>article {
+    height: auto;
+    width: 16vw;
+    margin-top: 5%;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 6%;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.github {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.codepen {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.linkedin {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+#imgPerfil {
+    position: absolute;
+    margin: auto;
+    top: -75%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 25%;
+    width: auto;
+    border-radius: 6%;
+    justify-items: center;
+    align-items: center;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.portfolio {
+    color: #000;
+    margin-top: 25%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.aplicacao-web {
+    color: #000;
+    margin-top: 10%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.radius {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.playweb {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.cineweb {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.imcweb {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.webcalorias {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.convertweb {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.tictactoe {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.site-lavarapido {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.site-mercadinho {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.bootstrap {
+    color: #000;
+    margin-top: 10%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.wordpress {
+    color: #000;
+    margin-top: 10%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.wordpress-portfolio {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.wordpress-lojinha {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.wordpress-shopbikes {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.contato {
+    color: #000;
+    margin-top: 15%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+#nome {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.telefone-fixo {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.telefone-movel {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.whatsapp {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+.endereco {
+    color: #000;
+    margin-top: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+.email {
+    color: #000;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: auto;
+    width: 16vw;
+    text-align: center;
+    border-radius: 6%;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px rgb(141, 141, 150),
+        -3px -3px 5px rgba(234, 236, 240, 0.932),
+        3px 3px 8px rgb(209, 209, 209);
+}
+
+@media screen and (min-width: 200px) {
+
+    .radius,
+    .playweb,
+    .cineweb,
+    .imcweb,
+    .webcalorias,
+    .convertweb,
+    .tictactoe,
+    .site-lavarapido,
+    .site-mercadinho,
+    .wordpress-portfolio,
+    .wordpress-lojinha,
+    .wordpress-shopbikes {
+        width: 50vw;
+    }
+
+    #nome,
+    .telefone-fixo,
+    .telefone-movel,
+    .whatsapp,
+    .endereco {
+        width: 50vw;
+    }
+
+    .email {
+        width: 100%;
+    }
+
+    .portfolio,
+    .aplicacao-web,
+    .bootstrap,
+    .wordpress,
+    .contato {
+        width: 25vw;
+    }
+}
+
+@media screen and (min-width: 300px) {
+
+    #imgPerfil {
+        height: 15%;
+        width: auto;
+    }
+}
