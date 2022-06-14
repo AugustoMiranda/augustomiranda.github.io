@@ -232,7 +232,7 @@ body {
         3px 3px 8px rgb(209, 209, 209);
 }
 
-.SuperMarioPC {
+.supermariopc {
     color: #000;
     margin-top: 5%;
     height: auto;
@@ -409,6 +409,7 @@ body {
     .imcweb,
     .webcalorias,
     .convertweb,
+    .supermariopc,
     .tictactoe,
     .site-lavarapido,
     .site-mercadinho,
@@ -432,6 +433,7 @@ body {
 
     .portfolio,
     .aplicacao-web,
+    .gamesweb,
     .bootstrap,
     .wordpress,
     .contato {
